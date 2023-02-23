@@ -1,1 +1,2 @@
 Test git quick start demo
+Adding some more text to start.txt file and testing git credentials while pushing
